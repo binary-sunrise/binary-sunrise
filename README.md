@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Abhay T S! 👋
 
 I'm a GIS Developer with 5 years of experience in developing Web GIS applications. Passionate about mapping, spatial analysis, and creating interactive maps.
 
@@ -16,13 +16,6 @@ I'm a GIS Developer with 5 years of experience in developing Web GIS application
 - **[Interactive Map](https://github.com/johndoe/interactive-map)**: An interactive map application built with Leaflet and React.
 - **[Spatial Analysis Tool](https://github.com/johndoe/spatial-analysis-tool)**: A tool for performing spatial analysis using Python and PostGIS.
 
-## 📈 GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
-
-## 📝 Blog & Writing
-- **[Blog](https://your-blog-link.com)**: Sharing my insights on GIS, web development, and more.
-- **[Medium](https://medium.com/@johndoe)**: Articles on various technical topics.
 
 ## 📫 How to reach me
 - **Email**: [john.doe@example.com](mailto:john.doe@example.com)
