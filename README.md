@@ -18,10 +18,6 @@ I'm a GIS Developer with 5 years of experience in developing Web GIS application
 
 
 ## 📫 How to reach me
-- **Email**: [john.doe@example.com](mailto:john.doe@example.com)
-- **LinkedIn**: [john-doe-linkedin](https://www.linkedin.com/in/john-doe/)
-- **Twitter**: [@johndoe](https://twitter.com/johndoe)
+- **Email**: [abhayfzv2@gmail.com](mailto: abhayfzv2@gmail.com)
+- **LinkedIn**: [john-doe-linkedin](https://www.linkedin.com/in/abhay-t-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
-
-*Happy Mapping!*
