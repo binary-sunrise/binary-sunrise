@@ -19,5 +19,7 @@ I'm a GIS Developer with 5 years of experience in developing Web GIS application
 
 ## 📫 How to reach me
 - **Email**: [abhayfzv2@gmail.com](mailto: abhayfzv2@gmail.com)
-- **LinkedIn**: [john-doe-linkedin](https://www.linkedin.com/in/abhay-t-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Abhay T S-linkedin](https://www.linkedin.com/in/abhay-t-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+
+------
